@@ -1,7 +1,7 @@
 # crfasrnn docker
 
 
-This is a dockerfile for building a docker image to run CRFASRNN with Caffe.
+This is a dockerfile for building a docker image to run CRFASRNN with Caffe. See more in https://hub.docker.com/r/bittnt/crfasrnn/
 
 ### How to run the odcker image from docker hub
 
