@@ -6,7 +6,7 @@ This is a dockerfile for building a docker image to run CRFASRNN with Caffe.
 ### Build your own docker image
 1. Make sure your have installed docker.
 
-2. In your terminal, git clone the repository and build the docker image with the following command. Make sure you have downloaded the TVG_CRFRNN_COCO_VOC.caffemodel and TVG_CRFRNN_COCO_VOC.prototxt before this command.
+2. In your terminal, git clone the repository and build the docker image with the following command. Make sure you have downloaded the crfasrnn Caffe, TVG_CRFRNN_COCO_VOC.caffemodel and TVG_CRFRNN_COCO_VOC.prototxt before this command.
 ```
 docker build -t crfasrnn .
 ```
